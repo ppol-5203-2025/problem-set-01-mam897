@@ -2,7 +2,7 @@
 This README file provides an overview of the replication materials for the article. The Python code used to run results and analysis will be in the folder **Codes**; data, raw and processed, will be in **Data**; and figures found both in the main text and appendix will be in **Figures**.  
 
 ## Data 
-- raw_data_12_10.csv contains raw data extracted on 12/10
+- raw_data.csv contains raw data extracted on 12/10
 - clean_data.json contains cleaned data
 
 ## Code
